@@ -36,7 +36,7 @@ It showcases my skills, projects, and personal journey as a **Full Stack Develop
 If you'd like to collaborate, connect, or just say hi 👋 —  
 Feel free to reach out!
 
-- 📧 **Email:** sudhanshu3115@example.com  
+- 📧 **Email:** sudhanshu3115@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sudhanshu-jaiswal-080a6b1b8
 
 ---
